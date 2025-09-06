@@ -1,4 +1,4 @@
-MY Introduction:
+My Introduction:
 
 This is my first Github repository.
 <br>
