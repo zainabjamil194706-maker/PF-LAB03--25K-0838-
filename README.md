@@ -8,4 +8,13 @@ I am currently studying BS Computer Science at FAST NUCES KARACHI.
 <br>
 I am particularly interested in learning programming, as it helps to perform logical operations and it also provides opportunity to continuously learn and apply new concepts in computer science.
 It fulfils my desire to create new systems while also encouraging critical thinking.
+<br>
+Unordered List\
+-Maryam
++Zainab
+*Asma\
+Ordered List\
+1. Cats
+2. Dogs
+3. Cows
 
