@@ -10,10 +10,10 @@ I am particularly interested in learning programming, as it helps to perform log
 It fulfils my desire to create new systems while also encouraging critical thinking.
 <br>
 Unordered List\
--Maryam
-+Zainab
+-Maryam\
++Zainab\
 *Asma\
-Ordered List\
+Ordered List
 1. Cats
 2. Dogs
 3. Cows
